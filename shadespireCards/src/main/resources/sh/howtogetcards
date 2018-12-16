@@ -1,0 +1,7 @@
+go to https://warhammerunderworlds.com/card-library/?lang=fr
+open dev tools from chrome
+navigate to all the pages of cards
+in Network > img all cards are listed
+right clic > Copy > Copy all as curl
+
+do some work to curl all images
